@@ -1,4 +1,4 @@
-# neural-turing-patterns
+# Neural Turing Patterns
  
 There are structures in nature that spontaneously emerge. They were studied for the first time by the
 English mathematician Alan Turing (1912 – 1954), who also introduced the concept of the contemporary
