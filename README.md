@@ -13,4 +13,4 @@ exhibited at the Marseille gallery "Le Pangolin". Moreover, within the "Beautifu
 artwork won the first prize during the OHBM conference 2022 (Organization of Human Brain Mapping) in
 Glasgow, UK (Booklet available at https://www.amazon.it/dp/B0C9SJJQ3D).
 
-![ntp](./image/NTP.jpeg)
+![ntp](./image/NTP.jpg)
